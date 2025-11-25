@@ -38,6 +38,12 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 ---
 
+## DIAGRAM
+<img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/7c4fcf4e-59b9-474d-9afe-536aa167f615" />
+
+---
+
+
 ## 🧪 PROCEDURE
 
 1.1.	Keep optical bread board onto original and flat table surface, so that it will not toggle.
